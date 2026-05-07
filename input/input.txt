@@ -1,0 +1,2 @@
+Hello Colab VS Code extension test.
+This file should be read remotely on GPU.
